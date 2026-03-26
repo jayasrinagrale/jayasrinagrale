@@ -14,8 +14,8 @@ Currently, I’m shaping the future of work on the **Microsoft Copilot & Agents*
 - **Productivity for Healers**: Developing an automated follow-up tool for energy healing practitioners to streamline their practice.
 
 ### 🎙️ Beyond the Canvas
-- **Host of "Legacy of Leaders"**: A podcast where I dive deep into the mindsets of top design and tech leaders.
-- **Community Mentor**: I’ve mentored hundreds of designers via ADPList and have spoken at major stages like UXIndia.
+- **Host of "Design Insights"**: A podcast where I dive deep into the mindsets of top design and tech leaders.
+- **Community Mentor**: I’ve mentored many designers via ADPList and have spoken at major national and international stages like UXIndia, DesignDisco, etc.
 - **Spirituality in Tech**: Exploring how Pranic Healing and mindfulness can inform more intentional, human-centric software.
 
 ### 🧰 My Stack
